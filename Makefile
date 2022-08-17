@@ -3,4 +3,4 @@ run:
 	bash -c "source .venv/bin/activate"
 	pip3 install -r requirements.txt
 	clear
-	streamlit run streamlit_app.py
+	streamlit run app.py
